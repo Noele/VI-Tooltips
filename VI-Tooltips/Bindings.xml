@@ -1,0 +1,12 @@
+<!-- VI-Tooltips Key Bindings -->
+<Bindings>
+    <Binding name="VITOOLTIPSLOCK" default="F6" category="Vi-Tooltips">
+        VITooltips_Lock();
+    </Binding>
+    <Binding name="VITOOLTIPSTOGGLE"  default = "F7" category="Vi-Tooltips">
+        VITooltips_Toggle();
+    </Binding>
+	    <Binding name="VITOOLTIPREAD"  default = "F8" category="Vi-Tooltips">
+        VITooltips_Read();
+    </Binding>
+</Bindings>

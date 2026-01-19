@@ -1,0 +1,10 @@
+## Interface: 110207
+## Title: VI-Tooltips
+## Notes: Duplicates the tooltips, allowing more control over them for the VI
+## DefaultState: enabled
+## LoadOnDemand: 0
+## Author: vampie
+## SavedVariables: VITooltipsSpeechDB
+
+VI-Tooltips.lua
+VI-Tooltips.xml
